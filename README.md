@@ -1,16 +1,28 @@
-### Hi there 👋
+Hi there, This is Vishal :wave:
 
-<!--
-**vishstack/vishstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full-stack developer with experience in Laravel, Symfony, CakePHP, Drupal, WordPress development. I have expertise in both front-end and back-end development, with a focus on creating custom website using Laravel, Symfony, CakePHP as well as WordPress themes and plugins development. My skill set includes:
 
-Here are some ideas to get you started:
+:small_orange_diamond: Laravel & React/Vue cross platform web application development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:small_orange_diamond: REST API development
+
+:small_orange_diamond: Drupal custom modules and theme customization along with the commerce module
+
+:small_orange_diamond: WordPress theme development using HTML, CSS, and JavaScript
+
+:small_orange_diamond: Custom plugin development using PHP and MySQL
+
+:small_orange_diamond: eCommerce plugins like WooCommerce, EDD as well as custom eCommerce customization & development
+
+:small_orange_diamond: Responsive web design and cross-browser compatibility
+
+:small_orange_diamond: Git version control
+
+I am passionate about creating clean, user-friendly, and efficient websites that provide a seamless experience for users. I have a strong attention to detail and always aim to deliver high-quality code that meets project requirements and exceeds client expectations.
+
+Feel free to contact me for any Framework OR WordPress development project. I look forward to the opportunity to work with you!
+
+</a>
+<a href="">
+  <img align="left" alt="Vishal LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
