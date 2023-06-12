@@ -23,6 +23,6 @@ I am passionate about creating clean, user-friendly, and efficient websites that
 Feel free to contact me for any Framework OR WordPress development project. I look forward to the opportunity to work with you!
 
 </a>
-<a href="">
+<a href="https://www.linkedin.com/in/vishal041217/">
   <img align="left" alt="Vishal LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
