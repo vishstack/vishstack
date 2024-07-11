@@ -1,8 +1,12 @@
 Hi there, This is Vishal :wave:
 
-I am a full-stack developer with experience in Laravel, Symfony, CakePHP, Drupal, WordPress development. I have expertise in both front-end and back-end development, with a focus on creating custom website using Laravel, Symfony, CakePHP as well as WordPress themes and plugins development. My skill set includes:
+I am a full-stack developer with experience in Shopify , Laravel, Symfony, CakePHP, Drupal, WordPress development. I have expertise in both front-end and back-end development, with a focus on creating custom website using Shopify, Laravel, Symfony, CakePHP as well as WordPress themes and plugins development. My skill set includes:
 
 :small_orange_diamond: Laravel & React/Vue cross platform web application development
+
+:small_orange_diamond: Have a solid understanding of Shopify's Liquid templating language, HTML, CSS, and JavaScript. 
+
+:small_orange_diamond: Proficient in setting up payment gateways, managing product inventories, and implementing SEO strategies to increase organic traffic.
 
 :small_orange_diamond: REST API development
 
